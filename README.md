@@ -1,2 +1,2 @@
 # PROJECT
-RECIPE FINDER
+A recipe search engine that lets you search by ingredients you have at home. Find thousands of recipes you can make right now with the ...
